@@ -34,7 +34,7 @@ public class banking {
     public static void main(String[] args) {
         rbi rate1=new rbi();
         rate1.rateofinterest();
-        rbi rate2=new sbi();
+        rbi rate2=new SBI();
         rate2.rateofinterest();
         rbi rate3=new icici();
         rate3.rateofinterest();
