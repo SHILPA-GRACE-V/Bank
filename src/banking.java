@@ -3,7 +3,7 @@ class rbi{
         System.out.println("7%");
     }
 }
-class sbi extends rbi{
+class SBI extends rbi{
     void rateofinterest(){
         System.out.println("7.1%");
     }
